@@ -1,0 +1,3 @@
+EE000000 0000 Enable Code (Must Be On)
+800F8DF7 00FF Infinite Lives
+8102B780 2400 Infinite Health

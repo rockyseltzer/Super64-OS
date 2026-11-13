@@ -1,0 +1,4 @@
+811269CA 0700 Infinite Time
+#81056444 0001 Always Have 1st Place
+D103E1EA 0010 Press R for Turbo
+8105641A 0800

@@ -1,0 +1,4 @@
+FF00CA30 0000 Enable Code (Must Be On)
+807FCC45 0096 Infinite Ammo
+817FCC42 00C8
+817FCC4C 041F Infinite Health

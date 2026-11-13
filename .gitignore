@@ -1,0 +1,15 @@
+# Build output
+/bin/
+/obj/
+*.v64
+*.elf
+*.o
+*.bin
+*.dfs
+
+# Editor and OS files
+.DS_Store
+*~
+*.tmp
+/.vs/
+/.vscode/

@@ -1,0 +1,9 @@
+812C4B48 4326 Infinite Shield
+812C4B4C 4326
+800E5ED9 0005 Infinite Lives
+#800CD3C8 0001 Unlock Everything
+#812C4BC0 0000 Time Always 00'00"00, Place 1st
+#812C4BC2 0001
+D02C4DAC 003F Have Boost From Start
+802C4925 0050
+812C492A 03E7 999 Points in Grand Prix

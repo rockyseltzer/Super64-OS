@@ -1,0 +1,2 @@
+F10396B0 2400 Enable Code (Must Be On)
+810A4938 0FF0 Enable All Hidden Characters

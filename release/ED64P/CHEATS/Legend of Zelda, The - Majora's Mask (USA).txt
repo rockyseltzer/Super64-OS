@@ -1,0 +1,9 @@
+F1080228 2400 Enable Code (Must Be On)
+F1096820 2400
+FF050000 0000
+811EF6A4 0140 Max Infinite Health
+811EF6A6 0140
+801EF6A9 0030 Infinite Magic
+811EF6AA 03E7 Infinite Rupees
+801EF711 0009 Infinite Arrows
+801EF716 0009 Infinite Bombs

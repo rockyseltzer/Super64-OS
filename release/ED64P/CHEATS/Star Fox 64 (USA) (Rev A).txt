@@ -1,0 +1,5 @@
+80161AAB 0002 Infinite Dual Blue Lasers
+8013C637 00FF Infinite Energy
+8013F517 00FF
+80161AA1 0009 Infinite Lives
+80177DA3 0004 Infinite Smart Bombs

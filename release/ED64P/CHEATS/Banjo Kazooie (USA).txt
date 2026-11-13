@@ -1,0 +1,14 @@
+F10396B0 2402 Enable Code (Must Be On)
+DE000400 0000
+80385F8B 0009 Infinite Lives
+80385F83 0008 Infinite Health
+80385F87 0008 Max Health Available
+81385F8E 0E10 Infinite Air
+80385FC7 0063 Infinite Mumbo Tokens
+80385FCB 0063 Infinite Jiggies
+80385F63 0063 Infinite Notes
+80385F67 0063 Infinite Eggs
+80385F6F 0063 Infinite Red Feathers
+80385F73 0063 Infinite Gold Feathers
+D0281251 0020 L Button For Moon Jump
+8137C4BC 43E0
